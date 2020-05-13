@@ -6,4 +6,13 @@
     <string name="hello_me">Greeting from Me</string>
     <string name="hello_replace">Greeting from replace fragment!</string>
     <string name="welcome_invest">Welcome to Invest Our Company</string>
+    <string name="invest_1_million">invest 1 million</string>
+    <string name="wechat">Wechat</string>
+    <string name="remove_all_fragment">remove all fragment</string>
+    <string name="replace">Replace</string>
+    <string name="chats">Chats</string>
+    <string name="contacts">Contacts</string>
+    <string name="discover">Discover</string>
+    <string name="me">Me</string>
+    <string name="get_investment">招商引资</string>
 </resources>

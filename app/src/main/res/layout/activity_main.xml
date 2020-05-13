@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
-            android:text="Wechat"
+            android:text="@string/wechat"
             android:textColor="@color/colorPrimary"
             android:textStyle="bold" />
 
@@ -30,14 +30,14 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:text="remove all fragment"
+            android:text="@string/remove_all_fragment"
             android:textColor="@color/colorPrimary" />
 
         <Button
             android:id="@+id/btn_replace_fragment"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Replace"
+            android:text="@string/replace"
             android:textColor="@color/colorPrimary" />
     </LinearLayout>
 
@@ -64,7 +64,7 @@
             android:id="@+id/chats"
             android:layout_width="100dp"
             android:layout_height="40dp"
-            android:text="Chats"
+            android:text="@string/chats"
             android:gravity="center"
             android:textStyle="bold"
             />
@@ -72,7 +72,7 @@
             android:id="@+id/contacts"
             android:layout_width="100dp"
             android:layout_height="40dp"
-            android:text="Contacts"
+            android:text="@string/contacts"
             android:gravity="center"
             android:textStyle="bold"
             />
@@ -80,7 +80,7 @@
             android:id="@+id/discover"
             android:layout_width="100dp"
             android:layout_height="40dp"
-            android:text="Discover"
+            android:text="@string/discover"
             android:gravity="center"
             android:textStyle="bold"
             />
@@ -88,7 +88,7 @@
             android:id="@+id/me"
             android:layout_width="100dp"
             android:layout_height="40dp"
-            android:text="Me"
+            android:text="@string/me"
             android:gravity="center"
             android:textStyle="bold"
             />
