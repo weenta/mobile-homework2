@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="hello_chats">Greeting from Chats fragment!</string>
+    <string name="hello_contacts">Greeting from Contacts fragment!</string>
+    <string name="hello_discover">Greeting from Discover fragment!</string>
+    <string name="hello_me">Greeting from Me</string>
+    <string name="hello_replace">Greeting from replace fragment!</string>
+    <string name="welcome_invest">Welcome to Invest Our Company</string>
+</resources>
